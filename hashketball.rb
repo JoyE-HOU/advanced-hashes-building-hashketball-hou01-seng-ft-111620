@@ -16,7 +16,7 @@ def game_hash
       :team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
       :players => [
-        
+        jeff_adrien, bismack_biyombo, desagna_diop, ben_gordon, kemba_walker
         ]
     }}
   
